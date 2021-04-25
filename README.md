@@ -14,14 +14,14 @@ are familiar with the patterns.
 
 # Widely used Design Patterns implemented in Java
 
-## Creational Design Patterns
+- ## Creational Design Patterns
 
 > **Abstract Factory:** Allows the creation of objects without specifying their concrete type.
 > > **Factory:** Creates objects without specifying the exact class to create.
 > > > **Prototype:** Creates a new object from an existing object.
 > > > > **Singleton:** Ensures only one instance of an object is created.
 
-## Structural Design Patterns
+- ## Structural Design Patterns
 
 > **Adapter:** Allows for two incompatible classes to work together by wrapping an interface around one of the existing classes.
 > > **Composite:** Takes a group of objects into a single object.
@@ -30,7 +30,7 @@ are familiar with the patterns.
 > > > > > **Facade:** Provides a simple interface to a more complex underlying object.
 > > > > > > **Proxy:** Provides a placeholder interface to an underlying object to control access, reduce cost, or reduce complexity.
 
-## Behavior Design Patterns
+- ## Behavior Design Patterns
 
 > **Front Controller:** provides a centralized request handling mechanism to handle all requests by a single handler.
 > > **Interceptor:** Implements a specialized language.
@@ -38,5 +38,5 @@ are familiar with the patterns.
 > > > > **Observer:** Is a publish/subscribe pattern which allows a number of observer objects to see an event.
 > > > > > **Strategy:** Allows one of a family of algorithms to be selected on-the-fly at run-time.
 
-## Architectural Design Patterns
+- ## Architectural Design Patterns
 > **Model View Controller:** allows separating different responsibilities to different entities.
