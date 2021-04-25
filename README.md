@@ -1,6 +1,6 @@
 # Gang of Four Design Patterns
 
-## Introduction
+- ## Introduction
 
 Design patterns are the best formalized practices a programmer can use to
 solve common problems when designing an application or system.
